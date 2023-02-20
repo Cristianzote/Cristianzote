@@ -1,4 +1,4 @@
-### Hi there 👋, ¡Soy el poderoso Cristianzote!
+### ¡Hola 👋, Soy el poderoso Cristianzote!
 #### Técnico en programación de software y tecnólogo en ADSI
 ![Técnico en programación de software y tecnólogo en ADSI](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
